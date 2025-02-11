@@ -1,0 +1,56 @@
+h1 {
+    font-family: verdana;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: verdana;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font-family: verdana;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 12px;
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+    text-align: center;
+}
+
+.ultraSpace {
+    margin-bottom: 500px;
+}
+
+.bigSpace {
+    margin-bottom: 200px;
+}
+
+.mediumSpace {
+    margin-bottom: 60px;
+}
+
+.smallSpace {
+    margin-bottom: 35px;
+}
+
+.ultrasmallSpace {
+    margin-bottom: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
